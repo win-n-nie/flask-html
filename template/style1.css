@@ -1,0 +1,25 @@
+header {
+  background-color: rgb(15, 15, 15);
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: rgb(226, 9, 9);
+}
+body {
+    background-color: rgb(244, 248, 244);
+    font-family: "Copperplate", 'Papyrus', fantasy;
+    color: rgb(7, 7, 7);
+    font-weight: normal;
+  }
+h1 {
+    color: rgb(240, 10, 10);
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+button {
+  background-color: black;
+  color: rgb(243, 244, 245);
+}
